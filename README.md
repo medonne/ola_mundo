@@ -1,2 +1,3 @@
-# ola_mundo
-Meu primeiro projeto Git
+# Olá, Mundo!
+Meu primeiro projeto Git e GitHub
+Criado durante uma aula do professor Guanabara.
